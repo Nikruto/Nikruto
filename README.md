@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nikruto
+- 👀 I’m interested in Web development and low level programming
+- 🌱 I’m currently learning Low level programming
